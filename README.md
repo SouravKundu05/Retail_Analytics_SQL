@@ -1,6 +1,7 @@
 # 🛒 Retail Sales Analysis using SQL
 
 📌 Project Overview
+
 This project focuses on analyzing a retail business dataset using MySQL.
 The goal is to clean raw transactional data, ensure data consistency, and extract meaningful business insights that help in decision-making such as customer behavior, product performance, and revenue trends.
 
